@@ -1,6 +1,6 @@
 # Hi there 👋
-## I am the real BI-L4L 4HM4D
-**There is an imposter floating around on this website**
+## I am the real BIL4L 4HM4D
+###There is an imposter floating around on this website
 **If you find him though contact him and say 'edison trash' and leave**
 <!--
 **Cayde2/Cayde2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
