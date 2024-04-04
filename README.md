@@ -1,18 +1,10 @@
 # Hi there 👋
-## I am the real BIL4L 4HM4D
-### There is an imposter floating around on this website
-**If you find him though contact him and say 'edison trash' and leave**
-<!--
-**Cayde2/Cayde2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am the Bilal Ahmad
+### My strengths include:
+- I'm a hard worker
+- I am always responsible for my own work
+- I make sure all my projects are up to a certain level of quality
+### Some things I would like to improve on:
+- I would like to become more well versed in programming languages
+- I would like to clear up my schedule so I can spend more time with my family
+- I would also like to expand my skillset so I can open up  my options for college/university courses
