@@ -1,5 +1,6 @@
 # Hi there 👋
 ## I am the Bilal Ahmad
+## I am a student at Nora Francis Henderson and am new to Github
 ### My strengths include:
 - I'm a hard worker
 - I am always responsible for my own work
